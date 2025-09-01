@@ -1,0 +1,43 @@
+h2 {
+    color: red;
+    font: bold;
+}
+p {
+    font-family: fantasy;
+}
+img {
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+    width: 200; 
+    height: 375;
+}
+button {
+    margin: 10px 0 10px 0;
+}
+.kontrol {
+    background-color: aliceblue;
+}
+.mahao {
+    background-color: cyan;
+}
+.learn {
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+.ijotuwa {
+    background-color: green;
+    font-family: serif;
+}
+.emaskink {
+    background-color: goldenrod;
+    font-family: Times New Roman;
+}
+body {
+    background-color: chocolate;
+}
+.yt {
+    background-color: red;
+}
+.ig {
+    background-color: magenta;
+}
